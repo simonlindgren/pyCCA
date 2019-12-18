@@ -1,7 +1,7 @@
 # pyCCA
 **Connected Concept Analysis for Python**
 
-This notebook helps with doing Connected Concept Analysis in Python. It does (roughly) the same job as [Textometrica](https://textometrica.humlab.umu.se).
+This notebook helps with doing Connected Concept Analysis in Python. It does (roughly) the same job as [Textometrica](http://textometrica.humlab.umu.se).
 
 For a description of CCA, refer to this paper:
 
